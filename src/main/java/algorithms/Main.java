@@ -9,5 +9,6 @@ public class Main {
 
         System.out.println(ArrayUtils.isPalindrome(e1));
         System.out.println(ArrayUtils.isPalindrome(e2));
+
     }
 }
